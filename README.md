@@ -27,9 +27,7 @@ Search for a city: Enter the name of the city in the search bar and click the se
 View weather details: The app will display the current weather conditions for the searched city.
 
 # screenshots:
-Interface
 <img width="916" alt="w1" src="https://github.com/user-attachments/assets/65a04a2c-e0ac-4213-a92d-d4fdf25f8470">
-ouput
 <img width="915" alt="w2" src="https://github.com/user-attachments/assets/d57d175a-99d7-4e3c-ae3f-7d8c6879a892">
 
 # Technologies Used:
