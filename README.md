@@ -37,5 +37,5 @@ JavaScript: Programming language for making the app interactive
 OpenWeatherMap API: API for fetching weather data
 
 
-# Thank you for visiting the Weather Forecast App project! If you have any questions, feel free to open an issue or reach out.
-# Make sure to customize this template according to your project's specific details and requirements. Add relevant screenshots and update the sections to reflect the actual features and technologies used in your project.
+Thank you for visiting the Weather Forecast App project! If you have any questions, feel free to open an issue or reach out.
+Make sure to customize this template according to your project's specific details and requirements. Add relevant screenshots and update the sections to reflect the actual features and technologies used in your project.
